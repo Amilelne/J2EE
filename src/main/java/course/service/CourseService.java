@@ -5,7 +5,7 @@ import java.util.List;
 
 import course.entity.Course;
 
-
+@Service
 public class CourseService {
 
 	//这里用List存放数据,以避免数据库的连接操作
